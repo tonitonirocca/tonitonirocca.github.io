@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Toni Rocca",
+    "description": "",
+    "home_page_url": "https://toniroc.ca",
+    "feed_url": "https://toniroc.ca/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Toni Rocca"
+    },
+    "items": [
+        {
+            "id": "https://toniroc.ca/test.html",
+            "url": "https://toniroc.ca/test.html",
+            "title": "Test!",
+            "summary": "this is a test~",
+            "content_html": "this is a test~",
+            "author": {
+                "name": "Toni Rocca"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-14T15:57:17-07:00",
+            "date_modified": "2019-09-14T15:57:17-07:00"
+        }
+    ]
+}

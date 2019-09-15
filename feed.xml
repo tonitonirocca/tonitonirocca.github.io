@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Toni Rocca</title>
+    <link href="https://toniroc.ca/feed.xml" rel="self" />
+    <link href="https://toniroc.ca" />
+    <updated>2019-09-14T18:05:08-07:00</updated>
+    <author>
+        <name>Toni Rocca</name>
+    </author>
+    <id>https://toniroc.ca</id>
+
+    <entry>
+        <title>Test!</title>
+        <author>
+            <name>Toni Rocca</name>
+        </author>
+        <link href="https://toniroc.ca/test.html"/>
+        <id>https://toniroc.ca/test.html</id>
+
+        <updated>2019-09-14T15:57:17-07:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test~
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                this is a test~
+            ]]>
+        </content>
+    </entry>
+</feed>
